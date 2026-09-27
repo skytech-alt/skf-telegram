@@ -1,0 +1,10 @@
+пакет {
+    имя = "skf-telegram"
+    версия = "1.0.0"
+    автор = "SkyMonder"
+    описание = "Telegram Bot API для SkyForge: отправка сообщений, обработка обновлений, клавиатуры"
+    репозиторий = "github.com/skytech-alt/skf-telegram"
+    точка_входа = "code/main.skf"
+    теги = ["telegram", "бот", "api", "сеть", "мессенджер"]
+    лицензия = "MIT"
+}
